@@ -1,0 +1,8 @@
+/_build
+/deps
+erl_crash.dump
+*.ez
+*.dump
+ttb_last_config
+/data
+mix.lock
