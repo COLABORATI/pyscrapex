@@ -17,4 +17,5 @@ def process_response(response):
 
 def _do_some_real_processing(response_html):
     for line in response_html.splitlines():
-        print line[:10]
+        pass
+    # print line[:10]
